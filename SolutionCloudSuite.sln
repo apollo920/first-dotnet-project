@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "source", "source", "{4FF4FFAA-2453-46CF-837E-10EC076AFE97}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modules", "Modules", "{CB537956-959B-484E-AE47-701CCF2C76FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudSuite.Modules.Domain", "source\Modules\CloudSuite.Modules.Domain\CloudSuite.Modules.Domain.csproj", "{C7CAED61-0591-48ED-B291-B509B01E2E13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7CAED61-0591-48ED-B291-B509B01E2E13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7CAED61-0591-48ED-B291-B509B01E2E13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7CAED61-0591-48ED-B291-B509B01E2E13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7CAED61-0591-48ED-B291-B509B01E2E13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CB537956-959B-484E-AE47-701CCF2C76FA} = {4FF4FFAA-2453-46CF-837E-10EC076AFE97}
+		{C7CAED61-0591-48ED-B291-B509B01E2E13} = {CB537956-959B-484E-AE47-701CCF2C76FA}
+	EndGlobalSection
+EndGlobal

@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\estagio\\dotnet-project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1D8CCADA-FC30-4EB8-906F-63DD05B39CCD}|source\\MySolution.Infrastructure\\MySolution.Infrastructure.csproj|d:\\estagio\\dotnet-project\\source\\mysolution.infrastructure\\mysolution.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{1D8CCADA-FC30-4EB8-906F-63DD05B39CCD}|source\\MySolution.Infrastructure\\MySolution.Infrastructure.csproj|solutionrelative:source\\mysolution.infrastructure\\mysolution.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{2B140F16-C5A8-4ECC-BDB1-723B619EC265}|source\\Modules\\CloudSuite.Modules.Domain\\CloudSuite.Modules.Domain.csproj|d:\\estagio\\dotnet-project\\source\\modules\\cloudsuite.modules.domain\\core\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B140F16-C5A8-4ECC-BDB1-723B619EC265}|source\\Modules\\CloudSuite.Modules.Domain\\CloudSuite.Modules.Domain.csproj|solutionrelative:source\\modules\\cloudsuite.modules.domain\\core\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D8CCADA-FC30-4EB8-906F-63DD05B39CCD}|source\\MySolution.Infrastructure\\MySolution.Infrastructure.csproj|d:\\estagio\\dotnet-project\\source\\mysolution.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D8CCADA-FC30-4EB8-906F-63DD05B39CCD}|source\\MySolution.Infrastructure\\MySolution.Infrastructure.csproj|solutionrelative:source\\mysolution.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B140F16-C5A8-4ECC-BDB1-723B619EC265}|source\\Modules\\CloudSuite.Modules.Domain\\CloudSuite.Modules.Domain.csproj|d:\\estagio\\dotnet-project\\source\\modules\\cloudsuite.modules.domain\\core\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B140F16-C5A8-4ECC-BDB1-723B619EC265}|source\\Modules\\CloudSuite.Modules.Domain\\CloudSuite.Modules.Domain.csproj|solutionrelative:source\\modules\\cloudsuite.modules.domain\\core\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B140F16-C5A8-4ECC-BDB1-723B619EC265}|source\\Modules\\CloudSuite.Modules.Domain\\CloudSuite.Modules.Domain.csproj|d:\\estagio\\dotnet-project\\source\\modules\\cloudsuite.modules.domain\\valueobjects\\cnpj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B140F16-C5A8-4ECC-BDB1-723B619EC265}|source\\Modules\\CloudSuite.Modules.Domain\\CloudSuite.Modules.Domain.csproj|solutionrelative:source\\modules\\cloudsuite.modules.domain\\valueobjects\\cnpj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\estagio\\dotnet-project\\source\\Modules\\CloudSuite.Modules.Domain\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:source\\Modules\\CloudSuite.Modules.Domain\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,33 +26,55 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "D:\\estagio\\dotnet-project\\source\\Modules\\CloudSuite.Modules.Domain\\Core\\AppSettings.cs",
+              "RelativeDocumentMoniker": "source\\Modules\\CloudSuite.Modules.Domain\\Core\\AppSettings.cs",
+              "ToolTip": "D:\\estagio\\dotnet-project\\source\\Modules\\CloudSuite.Modules.Domain\\Core\\AppSettings.cs",
+              "RelativeToolTip": "source\\Modules\\CloudSuite.Modules.Domain\\Core\\AppSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T17:59:00.278Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MySolution.Infrastructure",
-              "DocumentMoniker": "D:\\estagio\\dotnet-project\\source\\MySolution.Infrastructure\\MySolution.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "source\\MySolution.Infrastructure\\MySolution.Infrastructure.csproj",
-              "ToolTip": "D:\\estagio\\dotnet-project\\source\\MySolution.Infrastructure\\MySolution.Infrastructure.csproj",
-              "RelativeToolTip": "source\\MySolution.Infrastructure\\MySolution.Infrastructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-27T17:06:33.507Z",
+              "Title": "Address.cs",
+              "DocumentMoniker": "D:\\estagio\\dotnet-project\\source\\Modules\\CloudSuite.Modules.Domain\\Core\\Address.cs",
+              "RelativeDocumentMoniker": "source\\Modules\\CloudSuite.Modules.Domain\\Core\\Address.cs",
+              "ToolTip": "D:\\estagio\\dotnet-project\\source\\Modules\\CloudSuite.Modules.Domain\\Core\\Address.cs",
+              "RelativeToolTip": "source\\Modules\\CloudSuite.Modules.Domain\\Core\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T17:11:51.618Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\estagio\\dotnet-project\\source\\MySolution.Infrastructure\\Class1.cs",
-              "RelativeDocumentMoniker": "source\\MySolution.Infrastructure\\Class1.cs",
-              "ToolTip": "D:\\estagio\\dotnet-project\\source\\MySolution.Infrastructure\\Class1.cs",
-              "RelativeToolTip": "source\\MySolution.Infrastructure\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Cnpj.cs",
+              "DocumentMoniker": "D:\\estagio\\dotnet-project\\source\\Modules\\CloudSuite.Modules.Domain\\ValueObjects\\Cnpj.cs",
+              "RelativeDocumentMoniker": "source\\Modules\\CloudSuite.Modules.Domain\\ValueObjects\\Cnpj.cs",
+              "ToolTip": "D:\\estagio\\dotnet-project\\source\\Modules\\CloudSuite.Modules.Domain\\ValueObjects\\Cnpj.cs",
+              "RelativeToolTip": "source\\Modules\\CloudSuite.Modules.Domain\\ValueObjects\\Cnpj.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T17:06:16.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-28T17:11:42.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\estagio\\dotnet-project\\source\\Modules\\CloudSuite.Modules.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "source\\Modules\\CloudSuite.Modules.Domain\\Class1.cs",
+              "ToolTip": "D:\\estagio\\dotnet-project\\source\\Modules\\CloudSuite.Modules.Domain\\Class1.cs",
+              "RelativeToolTip": "source\\Modules\\CloudSuite.Modules.Domain\\Class1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T14:11:49.961Z"
             }
           ]
         }
