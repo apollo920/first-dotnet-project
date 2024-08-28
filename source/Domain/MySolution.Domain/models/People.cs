@@ -12,9 +12,9 @@ public class People : Entity, IAggregateRoot
         Cpf = cpf;
     }
 
-    public string Name { get; private set; }
+    public string? Name { get; private set; }
 
-    public int Year_old { get; private set; }
+    public int? Year_old { get; private set; }
 
-    public Cpf Cpf { get; private set; }
+    public Cpf? Cpf { get; private set; }
 }
