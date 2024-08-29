@@ -132,19 +132,19 @@
   },
   "packageFolders": {
     "C:\\Users\\apoll\\.nuget\\packages\\": {},
-    "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\estagio\\dotnet-project\\source\\Commons\\MySolution.Commons\\MySolution.Commons.csproj",
+      "projectUniqueName": "C:\\estagio\\dotnet-project\\first-dotnet-project\\source\\Commons\\MySolution.Commons\\MySolution.Commons.csproj",
       "projectName": "MySolution.Commons",
-      "projectPath": "D:\\estagio\\dotnet-project\\source\\Commons\\MySolution.Commons\\MySolution.Commons.csproj",
+      "projectPath": "C:\\estagio\\dotnet-project\\first-dotnet-project\\source\\Commons\\MySolution.Commons\\MySolution.Commons.csproj",
       "packagesPath": "C:\\Users\\apoll\\.nuget\\packages\\",
-      "outputPath": "D:\\estagio\\dotnet-project\\source\\Commons\\MySolution.Commons\\obj\\",
+      "outputPath": "C:\\estagio\\dotnet-project\\first-dotnet-project\\source\\Commons\\MySolution.Commons\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
         "C:\\Users\\apoll\\AppData\\Roaming\\NuGet\\NuGet.Config",

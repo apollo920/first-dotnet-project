@@ -169,19 +169,19 @@
   },
   "packageFolders": {
     "C:\\Users\\apoll\\.nuget\\packages\\": {},
-    "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\estagio\\dotnet-project\\source\\MySolution.Infrastructure\\MySolution.Infrastructure.csproj",
+      "projectUniqueName": "C:\\estagio\\dotnet-project\\first-dotnet-project\\source\\MySolution.Infrastructure\\MySolution.Infrastructure.csproj",
       "projectName": "MySolution.Infrastructure",
-      "projectPath": "D:\\estagio\\dotnet-project\\source\\MySolution.Infrastructure\\MySolution.Infrastructure.csproj",
+      "projectPath": "C:\\estagio\\dotnet-project\\first-dotnet-project\\source\\MySolution.Infrastructure\\MySolution.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\apoll\\.nuget\\packages\\",
-      "outputPath": "D:\\estagio\\dotnet-project\\source\\MySolution.Infrastructure\\obj\\",
+      "outputPath": "C:\\estagio\\dotnet-project\\first-dotnet-project\\source\\MySolution.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
         "C:\\Users\\apoll\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -200,8 +200,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\estagio\\dotnet-project\\source\\Domain\\MySolution.Domain\\MySolution.Domain.csproj": {
-              "projectPath": "D:\\estagio\\dotnet-project\\source\\Domain\\MySolution.Domain\\MySolution.Domain.csproj"
+            "C:\\estagio\\dotnet-project\\first-dotnet-project\\source\\Domain\\MySolution.Domain\\MySolution.Domain.csproj": {
+              "projectPath": "C:\\estagio\\dotnet-project\\first-dotnet-project\\source\\Domain\\MySolution.Domain\\MySolution.Domain.csproj"
             }
           }
         }

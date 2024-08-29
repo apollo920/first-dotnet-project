@@ -132,19 +132,19 @@
   },
   "packageFolders": {
     "C:\\Users\\apoll\\.nuget\\packages\\": {},
-    "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\estagio\\dotnet-project\\source\\Modules\\CloudSuite.Modules.Domain\\CloudSuite.Modules.Domain.csproj",
+      "projectUniqueName": "C:\\estagio\\dotnet-project\\first-dotnet-project\\source\\Modules\\CloudSuite.Modules.Domain\\CloudSuite.Modules.Domain.csproj",
       "projectName": "CloudSuite.Modules.Domain",
-      "projectPath": "D:\\estagio\\dotnet-project\\source\\Modules\\CloudSuite.Modules.Domain\\CloudSuite.Modules.Domain.csproj",
+      "projectPath": "C:\\estagio\\dotnet-project\\first-dotnet-project\\source\\Modules\\CloudSuite.Modules.Domain\\CloudSuite.Modules.Domain.csproj",
       "packagesPath": "C:\\Users\\apoll\\.nuget\\packages\\",
-      "outputPath": "D:\\estagio\\dotnet-project\\source\\Modules\\CloudSuite.Modules.Domain\\obj\\",
+      "outputPath": "C:\\estagio\\dotnet-project\\first-dotnet-project\\source\\Modules\\CloudSuite.Modules.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
         "C:\\Users\\apoll\\AppData\\Roaming\\NuGet\\NuGet.Config",

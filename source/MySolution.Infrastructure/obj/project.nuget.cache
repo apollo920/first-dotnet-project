@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zggUJHx7WQ4=",
+  "dgSpecHash": "I7YDy4EArdo=",
   "success": true,
-  "projectFilePath": "D:\\estagio\\dotnet-project\\source\\MySolution.Infrastructure\\MySolution.Infrastructure.csproj",
+  "projectFilePath": "C:\\estagio\\dotnet-project\\first-dotnet-project\\source\\MySolution.Infrastructure\\MySolution.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\apoll\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512",
     "C:\\Users\\apoll\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",

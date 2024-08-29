@@ -2,5 +2,8 @@
 
 public class CloudConstant
 {
-    public const string ThemeConfigKey = "Theme";
+    public class CloudConstants
+    {
+        public const string ThemeConfigKey = "Theme";
+    }
 }

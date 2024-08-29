@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MySolution.Commons
-build_property.ProjectDir = D:\estagio\dotnet-project\source\Commons\MySolution.Commons\
+build_property.ProjectDir = C:\estagio\dotnet-project\first-dotnet-project\source\Commons\MySolution.Commons\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
